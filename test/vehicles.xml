@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vehicles>
+	<Vehicle>
+		<Id>vehicle 1</Id>
+		<Frame>
+			<Material>Plastic</Material>
+		</Frame>
+		<Wheels>
+			<Wheel>
+				<Position>left rear</Position>
+				<Material>Plastic</Material>
+			</Wheel>
+			<Wheel>
+				<Position>right rear</Position>
+				<Material>Plastic</Material>
+			</Wheel>
+			<Wheel>
+				<Position>front</Position>
+				<Material>Plastic</Material>
+			</Wheel>
+		</Wheels>
+		<PowerTrain>
+			<Type>Human</Type>
+		</PowerTrain>
+	</Vehicle>
+	
+	<Vehicle>
+		<Id>vehicle 2</Id>
+		<Frame>
+			<Material>Metal</Material>
+		</Frame>
+		<Wheels>
+			<Wheel>
+				<Position>Rear</Position>
+				<Material>Metal</Material>
+			</Wheel>
+			<Wheel>
+				<Position>Front</Position>
+				<Material>Metal</Material>
+			</Wheel>
+		</Wheels>
+		<PowerTrain>
+			<Type>Human</Type>
+		</PowerTrain>
+	</Vehicle>
+	
+	<Vehicle>
+		<Id>vehicle 3</Id>
+		<Frame>
+			<Material>Metal</Material>
+		</Frame>
+		<Wheels>
+			<Wheel>
+				<Position>Rear</Position>
+				<Material>Metal</Material>
+			</Wheel>
+			<Wheel>
+				<Position>Front</Position>
+				<Material>Metal</Material>
+			</Wheel>
+		</Wheels>
+		<PowerTrain>
+			<Type>Human</Type>
+		</PowerTrain>
+	</Vehicle>
+</Vehicles>
